@@ -2,6 +2,10 @@ Hi dear visitor,
 
 This is a Repository for my python exercises and also to train my git managing skills.
 
+I'm currently using Beecrowd lists, LeetCode Guides, HackerRank Challenges and getting some exercises/solutions from Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions book.
+
+You can find the .pdf file on this repo: https://github.com/Avinash987/Coding/blob/master/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf
+
 Feel free to reach me out !
 
 
