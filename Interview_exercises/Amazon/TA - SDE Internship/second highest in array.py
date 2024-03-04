@@ -39,8 +39,7 @@ def second_highest(arr):
 # for testing possible cases:
 # if use maior = 0 this use case leads the script to fail
 arr2 = [-22, -1, -2, -4, -6, -22, -3, -5, -1]
-arr1 = [2, 11, 34, 21, 22, 2, 5, 64, 29,
-        1, -2, -111, 101, -1302, 100, 3, 44, 0]
+arr1 = [2, 11, 34, 21, 22, 2, 5, 64, 29, 1, -2, -111, 101, -1302, 100, 3, 44, 0]
 
 print(f"o maior número é: {highest_value(arr1)}")
 print(f"o segundo maior número é: {second_highest(arr1)}")
